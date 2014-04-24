@@ -71,7 +71,7 @@
                         <text>
                             <reference value = "#result5"/>
                         </text>
-                        <!-- Status of this test is active -->
+                        <!-- Status of this test is active - which is assumed in lab context to mean pending -->
                         <statusCode code = "active"/>
                         <effectiveTime value = "20120806"/>
                         <!-- Representing the pending result as NAV = temporarily unavailable. 
